@@ -58,3 +58,8 @@ body {
 .container ul li {
   padding: 5px 0;
 }
+
+.footer-img {
+  margin: 300px auto;
+  display: block;
+}
